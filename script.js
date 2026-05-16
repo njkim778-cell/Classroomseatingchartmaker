@@ -52,5 +52,3 @@ document.getElementById('start-btn').addEventListener('click', function() {
             emptyDesk.innerText = "빈자리";
             gridContainer.appendChild(emptyDesk);
         }
-    }
-});
